@@ -1,0 +1,6 @@
+{
+  "name": "Gambia Education Suite",
+  "description": "An all-in-one School Management SaaS platform for educational institutions. Manages students, teachers, parents, classes, attendance, exams, report cards, fees, payments, expenses, announcements, applications, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
